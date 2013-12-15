@@ -5,8 +5,8 @@ use ExtUtils::MakeMaker;
 use ExtUtils::MakeMaker::CPANfile;
 
 WriteMakefile(
-	NAME                => '__MODULE_NAME__',
+	NAME                => 'MooseX::Role::Nameable',
 	AUTHOR              => q{Aaron Cohen <acohen@shutterstock.com>},
-	VERSION_FROM        => '__MODULE_RELATIVE_PATH__',
-	ABSTRACT            => '',
+	VERSION_FROM        => 'lib/MooseX/Role/Nameable.pm',
+	ABSTRACT            => 'automatic class short names for the class',
 );
