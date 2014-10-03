@@ -13,11 +13,11 @@ use MooseX::Role::Parameterized;
 
 =head1 VERSION
 
-Version 1.00
+Version 1.01
 
 =cut
 
-our $VERSION = '1.00';
+our $VERSION = '1.01';
 
 =head1 SYNOPSIS
 
@@ -92,21 +92,21 @@ role {
 	};
 };
 
-=head1 ACKNOWLEDGEMENTS
-
-This module is brought to you by L<Shutterstock|http://www.shutterstock.com/>
-(L<@ShutterTech|https://twitter.com/ShutterTech>).  Additional open source
-projects from Shutterstock can be found at
-L<code.shutterstock.com|http://code.shutterstock.com/>.
-
 =head1 AUTHOR
 
 Aaron Cohen, C<< <aarondcohen at gmail.com> >>
 
+=head1 ACKNOWLEDGEMENTS
+
+This module was made possible by L<Shutterstock|http://www.shutterstock.com/>
+(L<@ShutterTech|https://twitter.com/ShutterTech>).  Additional open source
+projects from Shutterstock can be found at
+L<code.shutterstock.com|http://code.shutterstock.com/>.
+
 =head1 BUGS
 
 Please report any bugs or feature requests to C<bug-MooseX-Role-Nameable at rt.cpan.org>, or through
-the web interface at L<https://github.com/aarondcohen/MooseX-Role-Nameable/issues>.  I will
+the web interface at L<https://github.com/aarondcohen/perl-moosex-role-nameable/issues>.  I will
 be notified, and then you'll automatically be notified of progress on your bug as I make changes.
 
 =head1 SUPPORT
@@ -121,11 +121,11 @@ You can also look for information at:
 
 =item * Official GitHub Repo
 
-L<https://github.com/aarondcohen/MooseX-Role-Nameable>
+L<https://github.com/aarondcohen/perl-moosex-role-nameable>
 
 =item * GitHub's Issue Tracker (report bugs here)
 
-L<https://github.com/aarondcohen/MooseX-Role-Nameable/issues>
+L<https://github.com/aarondcohen/perl-moosex-role-nameable/issues>
 
 =item * CPAN Ratings
 
