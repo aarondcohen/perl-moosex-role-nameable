@@ -2,7 +2,7 @@ package MooseX::Role::Nameable;
 
 =head1 NAME
 
-MooseX::Role::Nameable - automatic class short names for the class
+MooseX::Role::Nameable - automatic class short names
 
 =cut
 
